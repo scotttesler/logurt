@@ -23,7 +23,7 @@ Logurt.warning("Something doesn't look right . . .");
 
 Outputs:
 
-![](https://i.imgur.com/79LRRLK.png)
+<img src="https://i.imgur.com/79LRRLK.png" alt="Image" width="400px" />
 
 ---
 
