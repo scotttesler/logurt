@@ -12,14 +12,18 @@ _Prettier logging_
 
 ## Usage
 
-```
-const Logurt = require("Logurt");
+```js
+const Logurt = require("logurt");
 
 Logurt.error("An error occurred.");
 Logurt.info("Here's some information.");
 Logurt.success("Good job!");
 Logurt.warning("Something doesn't look right . . .");
 ```
+
+Outputs:
+
+![](https://i.imgur.com/79LRRLK.png)
 
 ---
 
