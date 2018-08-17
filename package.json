@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Scott Tesler",
+    "email": "scottiet123@gmail.com",
+    "url": "https://scotttesler.github.io/"
+  },
+  "bugs": {
+    "email": "scottiet123@gmail.com",
+    "url": "https://github.com/scotttesler/logurt/issues"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "log-symbols": "^2.2.0"
+  },
+  "description": "Prettier logging",
+  "homepage": "https://github.com/scotttesler/logurt#readme",
+  "keywords": [
+    "log",
+    "logging",
+    "logurt",
+    "pretty",
+    "prettier"
+  ],
+  "license": "Apache-2.0",
+  "main": "Logurt.js",
+  "name": "logurt",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:scotttesler/logurt.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
