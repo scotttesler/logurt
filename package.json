@@ -22,7 +22,7 @@
     "prettier"
   ],
   "license": "Apache-2.0",
-  "main": "Logurt.js",
+  "main": "index.js",
   "name": "logurt",
   "repository": {
     "type": "git",
