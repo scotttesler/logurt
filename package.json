@@ -9,9 +9,9 @@
     "url": "https://github.com/scotttesler/logurt/issues"
   },
   "dependencies": {
-    "chalk": "^2.4.1",
+    "chalk": "^2.4.2",
     "json-stable-stringify": "^1.0.1",
-    "log-symbols": "^2.2.0"
+    "log-symbols": "^3.0.0"
   },
   "description": "Prettier logging",
   "homepage": "https://github.com/scotttesler/logurt#readme",
