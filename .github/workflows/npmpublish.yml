@@ -2,7 +2,8 @@ name: Publish to NPM and GitHub Package Registry
 
 on:
   push:
-    tags
+    tags:
+      - *
 
 jobs:
   publish-npm:
